@@ -1,0 +1,24 @@
+---
+title: "Problem Set (PS number goes here)"
+author: "Your Name"
+date: "The Date"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load-packages}
+# load all of the packages you need for the assignment here, e.g. library(tidyverse)
+```
+
+
+# 1.
+
+Add any additional text needed to answer the question here.
+
+```{r}
+# Your code for answering the question goes here.
+```
+
